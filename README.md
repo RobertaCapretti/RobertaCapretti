@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋, soy Roberta Capretti</h1>
-<h3 align="center">BI Technical Lead · Data Analyst · Project Manager</h3>
+<h3 align="center">BI Tech Lead · Data Analyst · Project Manager</h3>
 
 💡 Transformo datos en decisiones estratégicas a través de dashboards escalables y equipos BI colaborativos.  
 
 - 🔭 Actualmente trabajo como **BI Tech Lead**, coordinando desarrolladores y proyectos globales en Power BI.  
-- 💬 Me apasiona hablar sobre **Qlik Sense, Power BI, SQL, ETL y gestión de proyectos ágiles.**  
+- 💬 Me apasiona hablar sobre **Qlik Sense, Power BI, SQL y gestión de proyectos ágiles.**  
 - 🌱 En continuo aprendizaje de **Python para automatización y análisis avanzado.**  
 - 📁 Explorá mis proyectos: [GitHub Portfolio](https://github.com/RobertaCapretti/portfolio)  
 - 📫 Contacto: **caprettiroberta@gmail.com**  
