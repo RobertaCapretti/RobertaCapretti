@@ -1,19 +1,52 @@
-<h1 align="center">Hola 👋, me llamo Roberta</h1>
-<h3 align="center">Soy Data Analyst y profesora</h3>
+<h1 align="center">Hola 👋, soy Roberta Capretti</h1>
+<h3 align="center">BI Technical Lead · Data Analyst · Project Manager</h3>
 
-- 🌱 I’m currently learning **Python**
+💡 Transformo datos en decisiones estratégicas a través de dashboards escalables y equipos BI colaborativos.  
 
-- 👨‍💻 All of my projects are available at [https://github.com/RobertaCapretti/portfolio](https://github.com/RobertaCapretti/portfolio)
+- 🔭 Actualmente trabajo como **BI Tech Lead**, coordinando desarrolladores y proyectos globales en Power BI.  
+- 💬 Me apasiona hablar sobre **Qlik Sense, Power BI, SQL, ETL y gestión de proyectos ágiles.**  
+- 🌱 En continuo aprendizaje de **Python para automatización y análisis avanzado.**  
+- 📁 Explorá mis proyectos: [GitHub Portfolio](https://github.com/RobertaCapretti/portfolio)  
+- 📫 Contacto: **caprettiroberta@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/roberta-capretti)  
 
-- 💬 Ask me about **SQL, Data Viz & BI**
+---
 
-- 📫 How to reach me **caprettiroberta@gmail.com**
+<h3 align="left">🧰 Lenguajes y herramientas:</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/roberta-capretti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/roberta-capretti" height="30" width="40" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.qlik.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/qlik/qlik-icon.svg" alt="Qlik Sense" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://clickup.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+<h3 align="left">🚀 Sobre mí</h3>
+
+Soy **Líder Técnica BI y Project Manager** con más de 5 años de experiencia liderando equipos multidisciplinarios y gestionando proyectos en entornos corporativos y sociales.  
+En los últimos años orienté mi carrera hacia **Business Intelligence**, donde coordino desarrolladores y proyectos de analítica de datos.  
+Mi foco está en construir soluciones BI escalables que conecten negocio y tecnología, aplicando metodologías ágiles y buenas prácticas de gestión.  
+Disfruto mentorando equipos y formando nuevos analistas en SQL, Power BI y Qlik.
+
+---
+
+<h3 align="center">✨ “Data that drives strategy.” ✨</h3>
