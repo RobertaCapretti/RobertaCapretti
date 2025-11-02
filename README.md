@@ -18,9 +18,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://www.qlik.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/qlik/qlik-icon.svg" alt="Qlik Sense" width="40" height="40"/>
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -29,9 +26,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://clickup.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="40" height="40"/>
@@ -50,3 +44,4 @@ Disfruto mentorando equipos y formando nuevos analistas en SQL, Power BI y Qlik.
 ---
 
 <h3 align="center">✨ “Data that drives strategy.” ✨</h3>
+
