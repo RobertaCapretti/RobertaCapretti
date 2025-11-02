@@ -14,23 +14,12 @@
 
 <h3 align="left">🧰 Lenguajes y herramientas:</h3>
 
-<p align="left">
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://clickup.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/clickup/7B68EE" alt="ClickUp" width="40" height="40"/>
-  </a>
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 
 ---
 
@@ -40,6 +29,14 @@ Soy **Líder Técnica BI y Project Manager** con más de 5 años de experiencia 
 En los últimos años orienté mi carrera hacia **Business Intelligence**, donde coordino desarrolladores y proyectos de analítica de datos.  
 Mi foco está en construir soluciones BI escalables que conecten negocio y tecnología, aplicando metodologías ágiles y buenas prácticas de gestión.  
 Disfruto mentorando equipos y formando nuevos analistas en SQL, Power BI y Qlik.
+
+---
+
+### 🌍 Summary 
+
+BI Tech Lead and Project Manager passionate about turning complex data into strategic decisions.  
+I combine technical expertise in **Power BI, Qlik Sense, SQL, and Python** with solid project management skills to build scalable analytics solutions.  
+My goal is to connect **technology, people, and business** through data-driven strategies that create measurable value.
 
 ---
 
