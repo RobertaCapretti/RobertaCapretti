@@ -1,14 +1,21 @@
 <h1 align="center">Hola 👋, soy Roberta Capretti</h1>
-<h3 align="center">BI Tech Lead · Data Analyst · Project Manager</h3>
+<h3 align="center">Project Manager | Data & BI Delivery | Strategic Leadership</h3>
 
-💡 Transformo datos en decisiones estratégicas a través de dashboards escalables y equipos BI colaborativos.  
+💡 Combino visión estratégica y profundidad técnica para liderar equipos que entregan resultados.
 
-- 🔭 Actualmente trabajo como **BI Tech Lead**, coordinando desarrolladores y proyectos globales en Power BI.  
-- 💬 Me apasiona hablar sobre **Qlik Sense, Power BI, SQL y gestión de proyectos ágiles.**  
-- 🌱 En continuo aprendizaje de **Python para automatización y análisis avanzado.**  
-- 📁 Explorá mis proyectos: [GitHub Portfolio](https://github.com/RobertaCapretti/portfolio)  
-- 📫 Contacto: **caprettiroberta@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/roberta-capretti)  
+Project Manager con más de 6 años de experiencia liderando proyectos, equipos interdisciplinarios y stakeholders en organizaciones sociales y tecnológicas.
+
+Actualmente lidero la entrega de soluciones de Data & BI para una multinacional automotriz, coordinando un equipo remoto y priorizando iniciativas en entornos ágiles.
+
+Mi diferencial es combinar gestión de proyectos con criterio técnico: entiendo lo que el equipo construye porque también participé del desarrollo de soluciones de BI, automatización e IA aplicada.
+
+- 🎓 Certificada en **Google Project Management** · en preparación para **PMP**
+- 🤖 Participante del Anthropic AI Enablement Program, desarrollando soluciones con Claude, MCP y agentes de IA.
+- 
+- 📫 [caprettiroberta@gmail.com](mailto:caprettiroberta@gmail.com) · 
+- 💼 [LinkedIn](https://www.linkedin.com/in/roberta-capretti) · 
+- 📁 [Portfolio completo](https://github.com/RobertaCapretti/portfolio)
+
 
 ---
 
