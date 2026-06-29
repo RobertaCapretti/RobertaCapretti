@@ -11,7 +11,7 @@ Mi diferencial es combinar gestión de proyectos con criterio técnico: entiendo
 
 - 🎓 Certificada en **Google Project Management** · en preparación para **PMP**
 - 🤖 Participante del Anthropic AI Enablement Program, desarrollando soluciones con Claude, MCP y agentes de IA.
-- 
+
 - 📫 [caprettiroberta@gmail.com](mailto:caprettiroberta@gmail.com) · 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberta-capretti) · 
 - 📁 [Portfolio completo](https://github.com/RobertaCapretti/portfolio)
@@ -19,33 +19,36 @@ Mi diferencial es combinar gestión de proyectos con criterio técnico: entiendo
 
 ---
 
-<h3 align="left">🧰 Lenguajes y herramientas:</h3>
+<h3 align="left">🧰 Stack:</h3>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Qlik Sense](https://img.shields.io/badge/Qlik%20Sense-009845?style=flat-square&logo=qlik&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+**Gestión:**
+
+Project Management • Stakeholder Management • Agile Delivery • Risk Management • Backlog Prioritization
+Jira • ClickUp • Trello • Asana • Slack
+
+**Datos:**
+
+Power BI • Qlik Sense • SQL • Python • ETL • Data Modeling • Databricks
+
+**IA:**
+
+Claude • LangGraph • MCP
 
 ---
 
-<h3 align="left">🚀 Sobre mí</h3>
+<h3 align="left">🚀 Proyectos destacados mí</h3>
 
-Soy **Líder Técnica BI y Project Manager** con más de 5 años de experiencia liderando equipos multidisciplinarios y gestionando proyectos en entornos corporativos y sociales.  
-En los últimos años orienté mi carrera hacia **Business Intelligence**, donde coordino desarrolladores y proyectos de analítica de datos.  
-Mi foco está en construir soluciones BI escalables que conecten negocio y tecnología, aplicando metodologías ágiles y buenas prácticas de gestión.  
-Disfruto mentorando equipos y formando nuevos analistas en SQL, Power BI y Qlik.
 
 ---
 
 ### 🌍 Summary 
 
-BI Tech Lead and Project Manager passionate about turning complex data into strategic decisions.  
-I combine technical expertise in **Power BI, Qlik Sense, SQL, and Python** with solid project management skills to build scalable analytics solutions.  
-My goal is to connect **technology, people, and business** through data-driven strategies that create measurable value.
+Project Manager with a strong background in Data & BI Delivery, combining project management, stakeholder coordination and technical expertise in analytics. 
+My experience spans corporate and social sectors, leading cross-functional teams, managing budgets and delivering data-driven solutions. 
+I believe the best technical leaders understand both business priorities and the technology behind them.
+
 
 ---
 
-<h3 align="center">✨ “Data that drives strategy.” ✨</h3>
+<h3 align="center">✨ Strategy. Delivery. Technical judgment. ✨</h3>
 
