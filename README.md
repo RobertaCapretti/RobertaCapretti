@@ -24,7 +24,8 @@ Mi diferencial es combinar gestión de proyectos con criterio técnico: entiendo
 **Gestión:**
 
 Project Management • Stakeholder Management • Agile Delivery • Risk Management • Backlog Prioritization
-Jira • ClickUp • Trello • Asana • Slack
+
+Jira • ClickUp • Trello • Slack
 
 **Datos:**
 
@@ -36,8 +37,22 @@ Claude • LangGraph • MCP
 
 ---
 
-<h3 align="left">🚀 Proyectos destacados mí</h3>
+<h3 align="left">🚀 Proyectos destacados</h3>
 
+### 🤖 Mountain Risk Assessment Agent
+Agente de IA desarrollado con LangGraph para asistir la evaluación de riesgo en excursiones de montaña mediante lenguaje natural. Utiliza herramientas especializadas para analizar condiciones, calcular un nivel de riesgo y generar recomendaciones similares a las de un guía de montaña.
+Diseñado en el marco del programa interno de IA Generativa de Taligent — **reconocido como proyecto destacado**.
+
+
+### 📊 PM Weekly Digest *(en desarrollo)*
+Pipeline de agentes que conecta con GitHub para generar un reporte ejecutivo semanal de avance de proyecto, priorizando qué importa y adaptando formato y nivel de detalle a cada stakeholder.
+Proyecto orientado a aplicar IA al seguimiento ejecutivo de proyectos y la comunicación con stakeholders.
+
+
+### 📈 BI & Analytics
+Casos de BI, análisis funcional y automatización desarrollados en Power BI y Qlik Sense, que reflejan la base técnica sobre la que hoy lidero equipos y proyectos de datos.
+
+📁 [Ver portfolio completo](https://github.com/RobertaCapretti/portfolio)
 
 ---
 
