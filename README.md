@@ -40,7 +40,8 @@ Claude • LangGraph • MCP
 <h3 align="left">🚀 Proyectos destacados</h3>
 
 ### 🤖 Mountain Risk Assessment Agent
-Agente de IA desarrollado con LangGraph para asistir la evaluación de riesgo en excursiones de montaña mediante lenguaje natural. Utiliza herramientas especializadas para analizar condiciones, calcular un nivel de riesgo y generar recomendaciones similares a las de un guía de montaña.
+Agente de IA desarrollado con LangChain y Llama 3.3 70B (GroqCloud) para evaluar riesgo en excursiones de montaña mediante lenguaje natural.  
+El agente decide autónomamente qué tools invocar, combina un motor de scoring determinístico con razonamiento agéntico y genera  recomendaciones contextualizadas como guía de montaña.  
 Diseñado en el marco del programa interno de IA Generativa de Taligent — **reconocido como proyecto destacado**.
 
 
