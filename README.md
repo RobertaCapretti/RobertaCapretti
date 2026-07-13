@@ -45,9 +45,10 @@ El agente decide autónomamente qué tools invocar, combina un motor de scoring 
 Diseñado en el marco del programa interno de IA Generativa de Taligent — **reconocido como proyecto destacado**.
 
 
-### 📊 PM Weekly Digest *(en desarrollo)*
-Pipeline de agentes que conecta con GitHub para generar un reporte ejecutivo semanal de avance de proyecto, priorizando qué importa y adaptando formato y nivel de detalle a cada stakeholder.
-Proyecto orientado a aplicar IA al seguimiento ejecutivo de proyectos y la comunicación con stakeholders.
+### 🤖 AI Project Reporting Agent
+Agent Agente de IA que automatiza la generación de reportes ejecutivos de proyecto adaptados a cada stakeholder.  
+Convierte un único estado del proyecto en comunicaciones diferenciadas según el rol, el nivel de detalle y las necesidades de información de cada audiencia. El agente genera automáticamente reportes personalizados y los distribuye por correo electrónico. 
+Este proyecto representa el primer componente de una futura suite de agentes de IA orientada a automatizar procesos de Project Management.  
 
 
 ### 📈 BI & Analytics
