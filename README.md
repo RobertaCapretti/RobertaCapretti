@@ -10,7 +10,7 @@ Actualmente lidero la entrega de soluciones de Data & BI para una multinacional 
 Mi diferencial es combinar gestión de proyectos con criterio técnico: entiendo lo que el equipo construye porque también participé del desarrollo de soluciones de BI, automatización e IA aplicada.
 
 - 🎓 Certificada en **Google Project Management** · en preparación para **PMP**
-- 🤖 Participante del Anthropic AI Enablement Program, desarrollando soluciones con Claude, MCP y agentes de IA.
+- 🤖 Participante del Anthropic AI Enablement Program (Claude, MCP y Agentes de IA)
 
 - 📫 [caprettiroberta@gmail.com](mailto:caprettiroberta@gmail.com) · 
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberta-capretti) · 
