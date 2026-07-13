@@ -47,7 +47,7 @@ Diseñado en el marco del programa interno de IA Generativa de Taligent — **re
 
 ### 🤖 AI Project Reporting Agent
 Agente de IA que automatiza la generación de reportes ejecutivos de proyecto adaptados a cada stakeholder.  
-Convierte un único estado del proyecto en comunicaciones diferenciadas según el rol, el nivel de detalle y las necesidades de información de cada audiencia. El agente genera automáticamente reportes personalizados y los distribuye por correo electrónico. 
+Convierte un único estado del proyecto en comunicaciones diferenciadas según el rol, el nivel de detalle y las necesidades de información de cada audiencia. El agente genera automáticamente reportes personalizados y los distribuye por correo electrónico.   
 Este proyecto representa el primer componente de una futura suite de agentes de IA orientada a automatizar procesos de Project Management.  
 
 
